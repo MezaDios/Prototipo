@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+html{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background: #ECE9E6;
+    background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  
+    background: linear-gradient(to right, #FFFFFF, #ECE9E6);
+    box-sizing: border-box;
+}
+
+header{
+    margin: 0;
+    margin-bottom: 2%;
+    width: 100%;
+    background: #ECE9E6;
+    color: #283148;
+    top: 0;
+    position: sticky;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.4);
+    transition: all ease 500ms;
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+    z-index: 10;
+    user-select: none;
+    opacity: 0.98;
+}
+
+.logo{
+    width: 40%;
+    display: inline-flex;  
+    font-size: 2.5vw;
+}
+
+.logo img{
+    height: 3vw;
+    filter: drop-shadow(0 0 0.75rem crimson);
+}
+
+.menu{
+    width: 60%;
+    display: flex;
+    align-items: stretch;
+    height: 10vh;
+}
+
+.sinSubrayado{
+    text-decoration: none;
+}
+
+.menu > ul{
+    display: inline-flex;
+    width: 100%;
+    list-style: none;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.menu > ul li{
+    display: flex;
+    margin: 0;
+    flex-grow: 1;
+    transition: all ease 500ms;
+}
+
+.menu > ul li:hover{
+    transition: all ease 500ms;
+    background: rgba(23, 29, 46, 0.2);
+}
+
+li > a{
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+    color: #171d2e;
+    padding: 1.1rem;
+    font-size: 3vh;
+    flex-grow: 1;
+}
+
+a{
+    color: #00adb5;
+}
+
+a:visited{
+    color: #f38181;
+}
+
+footer{
+    margin-top: 3vh;
+    width: 100%;
+    background: #393e46;
+    color: #ECE9E6;
+}
+
+.renglon{
+    width: 100%;
+    display: inline-flex;
+}
+
+.columna{
+    width: 45%;
+    padding: 2.5%;
+    float: left;
+}
+
+.pie{
+    background: #222831;
+    width: 100%;
+    text-align: center;
+    font-size: 3vh;
+    line-height: 3.5vh;
+    vertical-align: middle;
+    margin-top: 1vh;
+}
+
+footer h6{
+    font-size: 3vh;
+}
+
+footer span{
+    color: #00adb5;
+}
+
+.oculto{
+    visibility: hidden;
+}
+
+.visible{
+    visibility: visible;
+}
+
+.txtBlanco{
+    color: #EEEEEE;
+}
+
+.naranja{
+    background: #f07b3f;
+}
+
+.verde{
+    background: #26C281;
+}
+
+.rojo{
+    background: #913535;
+}
+
+.azul{
+    background: #3b539b;
+}
+
+.gris{
+    background: #393e46;
+}
+
+.cafe{
+    background: #b55400;
+}
+
+.negro{
+    background: #1b120f;
+}
+
+.rosa{
+    background: #d52484;
+}
+
+.morado{
+    background: #8d309b;
+}

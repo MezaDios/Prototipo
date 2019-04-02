@@ -1,0 +1,60 @@
+{
+    "noticias":[
+        {
+            "titulo": "AMLO ZOOFILICO",
+            "descripcion": "El presidente de México es zoofilico, maldito ni pa que votan",
+            "imagen": "./IMG/1.jpg",
+            "autor": "Ismael Meza",
+            "lugar": "México",
+            "fecha": "2019-03-28"
+        },
+        {
+            "titulo": "AMLO ZOOFILICO",
+            "descripcion": "El presidente de México es zoofilico, maldito ni pa que votan",
+            "imagen": "./IMG/1.jpg",
+            "autor": "Ismael Meza",
+            "lugar": "México",
+            "fecha": "2019-03-28"
+        },
+        {
+            "titulo": "AMLO ZOOFILICO",
+            "descripcion": "El presidente de México es zoofilico, maldito ni pa que votan",
+            "imagen": "./IMG/1.jpg",
+            "autor": "Ismael Meza",
+            "lugar": "México",
+            "fecha": "2019-03-28"
+        },
+        {
+            "titulo": "AMLO ZOOFILICO",
+            "descripcion": "El presidente de México es zoofilico, maldito ni pa que votan",
+            "imagen": "./IMG/1.jpg",
+            "autor": "Ismael Meza",
+            "lugar": "México",
+            "fecha": "2019-03-28"
+        },
+        {
+            "titulo": "AMLO ZOOFILICO",
+            "descripcion": "El presidente de México es zoofilico, maldito ni pa que votan",
+            "imagen": "./IMG/1.jpg",
+            "autor": "Ismael Meza",
+            "lugar": "México",
+            "fecha": "2019-03-28"
+        },
+        {
+            "titulo": "AMLO ZOOFILICO",
+            "descripcion": "El presidente de México es zoofilico, maldito ni pa que votan",
+            "imagen": "./IMG/1.jpg",
+            "autor": "Ismael Meza",
+            "lugar": "México",
+            "fecha": "2019-03-28"
+        },
+        {
+            "titulo": "AMLO ZOOFILICO",
+            "descripcion": "El presidente de México es zoofilico, maldito ni pa que votan",
+            "imagen": "./IMG/1.jpg",
+            "autor": "Ismael Meza",
+            "lugar": "México",
+            "fecha": "2019-03-28"
+        }
+    ]
+}
